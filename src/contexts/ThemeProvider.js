@@ -7,7 +7,7 @@ import {
   ThemeProvider as MUIThemeProvider,
 } from "@mui/material/styles";
 
-const PRIMARY = {
+const SECONDARY = {
   lighter: "#FFD07F",
   light: "#FDA65D",
   main: "#FF8243",
@@ -15,7 +15,7 @@ const PRIMARY = {
   darker: "#cc571f",
   contrastText: "#FFF",
 };
-const SECONDARY = {
+const PRIMARY = {
   lighter: "#D6E4FF",
   light: "#84A9FF",
   main: "#3366FF",
