@@ -10,10 +10,10 @@ function Copyright() {
   return (
     <Typography variant="body2" color="text.secondary" align="center">
       {"Copyright © "}
-      <Link color="inherit" href="https://www.coderschool.vn">
-        CoderSchool
+      <Link color="inherit" href="https://www.google.com.vn">
+        Thanh Dung
       </Link>{" "}
-      {new Date().getFullYear()}
+      3{new Date().getFullYear()}
       {"."}
     </Typography>
   );
@@ -24,7 +24,7 @@ function App() {
     <>
       <Box sx={{ my: 4 }}>
         <Typography variant="h4" component="h1" gutterBottom align="center">
-          My new React app
+          Shoes Store
         </Typography>
         <Copyright />
       </Box>
